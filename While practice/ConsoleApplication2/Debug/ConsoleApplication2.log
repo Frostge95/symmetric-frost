@@ -1,0 +1,5 @@
+﻿  ConsoleApplication2.cpp
+c:\program c practice\consoleapplication2\consoleapplication2\consoleapplication2.cpp(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\program c practice\consoleapplication2\consoleapplication2\consoleapplication2.cpp(18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication2.vcxproj -> C:\Program C practice\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Program C practice\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Partial PDB)
